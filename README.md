@@ -7,7 +7,7 @@ Requirements
 ------------
 
     Git
-    Python 2
+    Python27
 
 
 Usage
@@ -15,6 +15,7 @@ Usage
 
     $ git clone https://github.com/Ro0TN3T/tel.git
     $ cd tel
+    $ chmod +x tel.py
     $ python2 tel.py
 
 
