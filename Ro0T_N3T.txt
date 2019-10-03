@@ -3,4 +3,5 @@
 # hostname:80
 # hostname:443
 cara.zzux.com:443
+118.98.95.106:443
 ro0tn3t.pointdns.pro:443
